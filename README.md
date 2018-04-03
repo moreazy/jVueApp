@@ -1,6 +1,11 @@
 # japp
 
-> Joe Vue App Server
+> Vuejs App :
+> vuejs
+> vue-router
+> vuex
+> axios
+> element-ui
 
 ## Build Setup
 
